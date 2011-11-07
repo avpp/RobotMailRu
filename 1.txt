@@ -1,0 +1,13 @@
+X X X X X X X X X X X X X X X X X X X X
+X - - - - - M - - - - - - - - - - - - X
+X - - X X X - M X X X X X X - X - X X X
+X - - X S - - - - - - - - X - X - X - -
+X - - M - - - - - - - - - X M - M X - -
+X - - X - - - - - - - - - X - - - X - -
+X - - X - - - - - - - - - X X - X X X X
+X - - X - - - - - - - - - X - - M - - X
+X - - X - - - - - - - - - X - - X - F X
+X - - X X X X X X X X X X X - - X X X X
+X - M M - - - X - - - - - - - - X - - -
+X - - - X - - - - - - - - - - - X - - -
+X X X X X X X X X X X X X X X X X - - -

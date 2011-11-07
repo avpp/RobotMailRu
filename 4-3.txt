@@ -1,0 +1,8 @@
+X X X X X X X X X X
+X - - - - - M - - X
+X - - M M M M - - X
+X M - M - S M - M X
+X - - M M M M - - X
+X - - M - - - - - X
+X - - - M M - - F X
+X X X X X X X X X X
